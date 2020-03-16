@@ -1,0 +1,39 @@
+header{
+    margin: 0;
+    background-color: #6d8adbc7;
+    width: 100%;
+    position: relative;
+    height: 8vh;
+    padding-top: 10px;
+
+}
+#headerH1{
+    text-align: center;
+    margin: auto;
+    color: snow;
+}
+#mainSection
+{
+    text-align: center;
+    margin-top: 250px;
+    margin-right: 900px;
+}
+#mainSection2{
+    margin-bottom: 70%;
+}
+body{
+    background-color: #eee;
+}
+#work{
+    margin-top: 10%;
+    
+}
+.nativeDateTimePicker{
+    margin-top: 10%;
+
+}
+#submit{
+    padding: 5px;
+    margin-top: auto;
+    
+}
